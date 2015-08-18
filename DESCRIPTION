@@ -9,3 +9,4 @@ Description: Makes the graphics for the Schick et al. MS on elicitation on prior
 License: What license is it under?
 LazyData: TRUE
 Suggests: shiny
+URL: https://github.com/robschick/elicitMS
