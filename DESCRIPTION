@@ -1,0 +1,11 @@
+Package: elicitMS
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1
+Date: 2015-08-18
+Author: Rob Schick
+Maintainer: Rob Schick <robschick@gmail.com>
+Description: Makes the graphics for the Schick et al. MS on elicitation on priors for movement of right whales in the Mid-Atlantic region of the United States.
+License: What license is it under?
+LazyData: TRUE
+Suggests: shiny
