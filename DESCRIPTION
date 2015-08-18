@@ -10,3 +10,4 @@ License: What license is it under?
 LazyData: TRUE
 Suggests: shiny
 URL: https://github.com/robschick/elicitMS
+BugReports: URL: https://github.com/robschick/elicitMS/issues
